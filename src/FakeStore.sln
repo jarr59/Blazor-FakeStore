@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeStore.Web", "FakeStore.Web\FakeStore.Web.csproj", "{2E743E37-DF2A-4BF9-BA4A-4743444558D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStore.Web.Components", "FakeStore.Web.Components\FakeStore.Web.Components.csproj", "{75C2B41E-85A6-4F9C-B4FD-52C2A6FD1A12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeStore.Web.Components", "FakeStore.Web.Components\FakeStore.Web.Components.csproj", "{75C2B41E-85A6-4F9C-B4FD-52C2A6FD1A12}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeStore.Web.Pages", "FakeStore.Web.Pages\FakeStore.Web.Pages.csproj", "{A0B043E4-DC9E-4C3F-8163-9BD0BABD319B}"
 EndProject

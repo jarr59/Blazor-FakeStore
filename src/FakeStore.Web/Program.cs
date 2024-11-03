@@ -1,10 +1,16 @@
 using FakeStore.Web.Components;
+using Microsoft.FluentUI.AspNetCore.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+///FluentUI
+builder.Services.AddFluentUIComponents();
+builder.Services.AddHttpClient();
+
 
 var app = builder.Build();
 
